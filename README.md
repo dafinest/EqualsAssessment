@@ -4,6 +4,8 @@ Project description
 # creating a star schema design for datawarehouse and perfoming ETLs from a document database and a relational database
 
 Project structure
+different folders houses different scripts depending on their usecase
+
 # ddl/
   Creating postgres tables.py      #scripts to create all the tables for datawarehouse star schema design
   Creating Time Dimension.py       #script to create time_dim

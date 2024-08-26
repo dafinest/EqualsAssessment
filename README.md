@@ -26,8 +26,13 @@ Project structure
   Fact Transactional Data.py    #script to run transactional data from stagging table to fact table
   Fact Visa Transactions.py    #script to run visa transaction data from stagging table to fact table
 
+#data_streaming/
+  Simulating Data Source for Streaming.py    #script to simulate  listening
+  Spark Streaming Application.py              #script for simulating using spark for streaming
+
 #utils/
   Schemas Effectives.sql    # sql script that shows the effectiveness of a star schema
+  Indexes on Transactional Data.py  #script to create indexes to the staging table
 
 
 #Pre-requisites

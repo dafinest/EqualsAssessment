@@ -1,4 +1,4 @@
-# EqualsAssessment
+# Data warehousing
 
 Project description
 # creating a star schema design for datawarehouse and perfoming ETLs from a document database and a relational database
